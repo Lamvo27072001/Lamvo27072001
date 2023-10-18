@@ -30,7 +30,7 @@
  
  
  <p align="center">
-  <h4> Front-end | React | Javascript </h4>
+  <h4> Front-end | React | Nextjs | Javascript | Typescript </h4>
    </p>
 
 <!--  -->
